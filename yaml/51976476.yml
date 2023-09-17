@@ -1,0 +1,26 @@
+---
+id: 51976476
+name: Double Trap Hole
+type: Trap Card
+frameType: trap
+desc: 'If your opponent Special Summons a monster(s) in Defense Position: Banish those
+  monster(s) that were Summoned in (and currently in) Defense Position.'
+race: Normal
+archetype: Hole
+card_sets:
+- set_name: Secrets of Eternity
+  set_code: SECE-EN080
+  set_rarity: Short Print
+  set_rarity_code: "(SP)"
+  set_price: '1.96'
+card_images:
+- id: 51976476
+  image_url: https://images.ygoprodeck.com/images/cards/51976476.jpg
+  image_url_small: https://images.ygoprodeck.com/images/cards_small/51976476.jpg
+  image_url_cropped: https://images.ygoprodeck.com/images/cards_cropped/51976476.jpg
+card_prices:
+- cardmarket_price: '0.33'
+  tcgplayer_price: '0.20'
+  ebay_price: '1.85'
+  amazon_price: '0.25'
+  coolstuffinc_price: '0.49'

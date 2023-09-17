@@ -1,0 +1,35 @@
+---
+id: 52198054
+name: Blaze Accelerator Reload
+type: Trap Card
+frameType: trap
+desc: 'This card''s name becomes "Tri-Blaze Accelerator" while in the Spell & Trap
+  Zone. During either player''s Main Phase: You can send 1 "Volcanic" card from your
+  hand to the Graveyard, and if you do, draw 1 card. You can only use this effect
+  of "Blaze Accelerator Reload" once per turn. During either player''s Main Phase:
+  You can banish this card from your Graveyard; send 1 "Volcanic" card from your Deck
+  to the Graveyard.'
+race: Continuous
+archetype: Blaze Accelerator
+card_sets:
+- set_name: 'Legendary Duelists: Soulburning Volcano'
+  set_code: LD10-EN031
+  set_rarity: Common
+  set_rarity_code: "(C)"
+  set_price: '0'
+- set_name: Secrets of Eternity
+  set_code: SECE-EN077
+  set_rarity: Common
+  set_rarity_code: "(C)"
+  set_price: '1.16'
+card_images:
+- id: 52198054
+  image_url: https://images.ygoprodeck.com/images/cards/52198054.jpg
+  image_url_small: https://images.ygoprodeck.com/images/cards_small/52198054.jpg
+  image_url_cropped: https://images.ygoprodeck.com/images/cards_cropped/52198054.jpg
+card_prices:
+- cardmarket_price: '0.09'
+  tcgplayer_price: '0.14'
+  ebay_price: '1.50'
+  amazon_price: '0.96'
+  coolstuffinc_price: '0.25'
